@@ -1,0 +1,23 @@
+{
+  "name": "nightcore-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/opus": "^0.3.2",
+    "discord.js": "^12.3.1",
+    "http": "0.0.1-security",
+    "immutable": "^4.0.0-rc.12",
+    "youtube-search": "^1.1.4",
+    "ytdl-core": "^3.4.1"
+  },
+  "devDependencies": {
+    "eslint": "^7.11.0"
+  }
+}
